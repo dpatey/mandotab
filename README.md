@@ -1,0 +1,1 @@
+This projkect aims to validate the theory that it is possible to generate mandolin tabs directly by playing mandolin into a micorphone
